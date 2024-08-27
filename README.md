@@ -16,7 +16,7 @@ I'm a **Software Engineer in Training** passionate about learning and building i
 - **Build:** Create and launch an amazing UI and also a fully functional optimized website with a classic backend.
 
 ## 📫 Get in Touch
-- **GitHub:** [Your GitHub profile link]
+- **GitHub:** https://github.com/efemeroyal
 - **Email:** efemeroyal247@gmail.com
 
 
